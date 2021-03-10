@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Team A10</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
+</head>
+
+<body>
+    <div class="top-container">
+        <!-- AWAL HEADER -->
+        <header>
+            <h1 class="logo">TEAM <span>A10</span></h1>
+            <div class="nav">
+                <ul>
+                    <li><a href="#service">Service</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#visimisi">Visi & Misi</a></li>
+                    <li><a href="#contact">Contact Us</a></li>
+                </ul>
+            </div>
+        </header>
+        <!-- AKHIR HEADER -->
+
+        <!-- AWAL BANNER -->
+        <div class="top-banner">
+            <img src="top.jpg" width="470px">
+            <div class="banner">
+                <h2>Kami Adalah Perusahaan Jasa Pembuatan Website</h2>
+                <p>Kami memiliki lebih dari 500 klien di indonesia, dan kami bekerja secara team.</p>
+                <p>Serahkan pembuatan website anda kepada kami.</p>
+                <p class="umum">Bergaransi | Free Domain Dan Hosting | Layanan 24 Jam </p>
+                <div class="btn-banner">
+                    <div class="btn-template">PILIH TEMPLATE</div>
+                    <div class="btn-order">ORDER SEKARANG</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- AKHIR BANNER -->
+    </div>
+
+
+
+</body>
+
+</html>
